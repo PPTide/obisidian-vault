@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "cf6de39e55d66045",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b19b5276bbb3f64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathe/Funktionen.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "654f9b34373b497b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a0006192ef24c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f66530c058fbc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "77536f4fb5d9fa35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Hi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5508c7338a1c1964",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6147a2b228ae8de6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c273fa558428d8d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36466a5fc1b416c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mathe/Funktionen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d37abf9246ece086",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathe/Funktionen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e9573fc4dfdc5d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be7cdbfb852819c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mathe/Funktionen.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9b19b5276bbb3f64",
+  "lastOpenFiles": [
+    "index.md",
+    "Mathe/Funktionen.md",
+    "Mathe/Mathe Index.md",
+    "Physik/Physik Index.md",
+    "[index].md",
+    "Präs.md",
+    "2022-08-18.md",
+    "test.md"
+  ]
+}

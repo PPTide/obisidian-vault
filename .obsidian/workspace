@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geschichte/der Weg zur Macht.md",
+            "file": "index.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fafe411e3642f6fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Philo/Philo Index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/der Weg zur Macht.md",
+                "file": "Philo/Philo Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/der Weg zur Macht.md",
+                "file": "Philo/Philo Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/der Weg zur Macht.md"
+                "file": "Philo/Philo Index.md"
               }
             }
           },
@@ -146,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b19b5276bbb3f64",
+  "active": "fafe411e3642f6fc",
   "lastOpenFiles": [
+    "index.md",
+    "Philo/Philo Index.md",
+    "Geschichte/der Weg zur Macht.md",
     "Geschichte/Reflexion.md",
     "Geschichte/Geschichte Index.md",
-    "Geschichte/der Weg zur Macht.md",
     "Mathe/Mathe Index.md",
     "Mathe/Funktionen.md",
     "Mathe/Merkheft/Exponentialfunktionen.md",
     "Mathe/Exponentialfunktionen.md",
-    "index.md",
-    "Geschichte/.md",
-    "Physik/Physik Index.md"
+    "Geschichte/.md"
   ]
 }

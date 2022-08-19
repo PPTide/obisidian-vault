@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b19b5276bbb3f64",
+        "id": "d11127b61b09aace",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "fafe411e3642f6fc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Philo/Philo Index.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -54,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#math/functions",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philo/Philo Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philo/Philo Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Philo/Philo Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,16 +137,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fafe411e3642f6fc",
+  "active": "d11127b61b09aace",
   "lastOpenFiles": [
-    "index.md",
+    "Mathe/Mathe Index.md",
     "Philo/Philo Index.md",
+    "index.md",
+    "Mathe/Merkheft/Exponentialfunktionen.md",
     "Geschichte/der Weg zur Macht.md",
     "Geschichte/Reflexion.md",
     "Geschichte/Geschichte Index.md",
-    "Mathe/Mathe Index.md",
     "Mathe/Funktionen.md",
-    "Mathe/Merkheft/Exponentialfunktionen.md",
     "Mathe/Exponentialfunktionen.md",
     "Geschichte/.md"
   ]

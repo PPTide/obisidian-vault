@@ -1,5 +1,6 @@
 ---
 date: 2022-08-19
+merkheft: 1
 ---
 #math/merkheft #math/functions 
 ## Allgemeine Form

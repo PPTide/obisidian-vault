@@ -1,3 +1,6 @@
+---
+date: 2022-08-19
+---
 #math/functions 
 # Exponentialfunktionen
 ### Funktionsvorschrift

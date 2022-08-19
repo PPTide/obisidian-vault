@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geschichte/Reflexion.md",
+            "file": "Mathe/Mathe Index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#math/functions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Reflexion.md",
+                "file": "Mathe/Mathe Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Reflexion.md",
+                "file": "Mathe/Mathe Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Reflexion.md"
+                "file": "Mathe/Mathe Index.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "9b19b5276bbb3f64",
   "lastOpenFiles": [
+    "Mathe/Funktionen.md",
+    "Mathe/Mathe Index.md",
     "Geschichte/Geschichte Index.md",
     "Geschichte/Reflexion.md",
-    "index.md",
-    "Geschichte/.md",
-    "Mathe/Mathe Index.md",
     "Mathe/Merkheft/Exponentialfunktionen.md",
     "Mathe/Exponentialfunktionen.md",
+    "index.md",
+    "Geschichte/.md",
     "Physik/Physik Index.md",
-    "Mathe/Funktionen.md",
     "Mathe/Exponentialfunktionen.png"
   ]
 }

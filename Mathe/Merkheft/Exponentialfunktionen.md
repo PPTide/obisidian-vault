@@ -1,3 +1,6 @@
+---
+date: 2022-08-19
+---
 #math/merkheft #math/functions 
 ## Allgemeine Form
 | Lineare Funktionen      | $f(x)=mx+b$      |

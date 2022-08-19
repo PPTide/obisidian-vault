@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Mathe/Exponetialfunktionen.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathe/Exponetialfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathe/Exponetialfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Mathe/Exponetialfunktionen.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,15 +147,15 @@
   },
   "active": "9b19b5276bbb3f64",
   "lastOpenFiles": [
-    "Mathe/Funktionen.md",
+    "Mathe/Merkheft/Exponentialfunktionen.md",
     "Mathe/Exponetialfunktionen.md",
+    "Mathe/Funktionen.md",
     "Mathe/Exponentialfunktionen.png",
     "index.md",
     "Mathe/Mathe Index.md",
     "Physik/Physik Index.md",
     "[index].md",
     "Präs.md",
-    "2022-08-18.md",
-    "test.md"
+    "2022-08-18.md"
   ]
 }

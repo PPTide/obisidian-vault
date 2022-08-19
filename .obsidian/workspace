@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe/Exponetialfunktionen.md",
+            "file": "Geschichte/Reflexion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Aufgabe ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Exponetialfunktionen.md",
+                "file": "Geschichte/Reflexion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Exponetialfunktionen.md",
+                "file": "Geschichte/Reflexion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Exponetialfunktionen.md"
+                "file": "Geschichte/Reflexion.md"
               }
             }
           },
@@ -139,23 +140,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "9b19b5276bbb3f64",
+  "active": "77536f4fb5d9fa35",
   "lastOpenFiles": [
+    "Geschichte/Geschichte Index.md",
+    "index.md",
+    "Geschichte/.md",
+    "Mathe/Mathe Index.md",
     "Mathe/Merkheft/Exponentialfunktionen.md",
-    "Mathe/Exponetialfunktionen.md",
+    "Mathe/Exponentialfunktionen.md",
+    "Physik/Physik Index.md",
     "Mathe/Funktionen.md",
     "Mathe/Exponentialfunktionen.png",
-    "index.md",
-    "Mathe/Mathe Index.md",
-    "Physik/Physik Index.md",
-    "[index].md",
-    "Präs.md",
-    "2022-08-18.md"
+    "[index].md"
   ]
 }

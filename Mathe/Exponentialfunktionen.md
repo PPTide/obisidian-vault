@@ -20,8 +20,8 @@ $f(x) = 2^x$
 # Übung
 Eine Alge bedeckt zu Begin 3m^3 eines Sees und verdoppelt seine Fläche jeden Tag. 
 - [x] Funktionsgleichung ?
-- [ ] nach 1 Woche ?
-- [ ] nach 1 Monat ? 
+- [x] nach 1 Woche ?
+- [x] nach 1 Monat ? 
 
 ##### Funktionsgleichung
 $f(x) = 3 * 2^x$
@@ -37,6 +37,6 @@ $$
 $$
 \begin{align*}
 	f(30)&=3*2^30 \\
-	f(30)&=3221225472
+	f(30)&=3.221.225.472
 \end{align*}
 $$

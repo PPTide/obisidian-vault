@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe/Mathe Index.md",
+            "file": "Geschichte/der Weg zur Macht.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Mathe Index.md",
+                "file": "Geschichte/der Weg zur Macht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Mathe Index.md",
+                "file": "Geschichte/der Weg zur Macht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Mathe Index.md"
+                "file": "Geschichte/der Weg zur Macht.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "9b19b5276bbb3f64",
   "lastOpenFiles": [
-    "Mathe/Funktionen.md",
-    "Mathe/Mathe Index.md",
-    "Geschichte/Geschichte Index.md",
     "Geschichte/Reflexion.md",
+    "Geschichte/Geschichte Index.md",
+    "Geschichte/der Weg zur Macht.md",
+    "Mathe/Mathe Index.md",
+    "Mathe/Funktionen.md",
     "Mathe/Merkheft/Exponentialfunktionen.md",
     "Mathe/Exponentialfunktionen.md",
     "index.md",
     "Geschichte/.md",
-    "Physik/Physik Index.md",
-    "Mathe/Exponentialfunktionen.png"
+    "Physik/Physik Index.md"
   ]
 }

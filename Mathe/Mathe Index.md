@@ -8,7 +8,3 @@
 table date as Date
 from #math
 ```
-
-```dataviewjs
-dv.table()
-```

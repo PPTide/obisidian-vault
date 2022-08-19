@@ -1,6 +1,4 @@
----
-hello: true
----
+#math/functions
 # Funktionen
 ## Arten der Darstellungen: 
 ### Funktionsgraph
@@ -35,4 +33,3 @@ x | y
 0 | 7
 1 | 9
 2 | 11
-

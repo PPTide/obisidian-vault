@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe/Funktionen.md",
+            "file": "Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Hi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Funktionen.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Funktionen.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,21 +118,39 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Funktionen.md"
+                "file": "Untitled.md"
               }
             }
+          },
+          {
+            "id": "5445b6c8004f0d5e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e9d67fe0027ee16",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9b19b5276bbb3f64",
   "lastOpenFiles": [
-    "index.md",
     "Mathe/Funktionen.md",
+    "Mathe/Exponetialfunktionen.md",
+    "Mathe/Exponentialfunktionen.png",
+    "index.md",
     "Mathe/Mathe Index.md",
     "Physik/Physik Index.md",
     "[index].md",

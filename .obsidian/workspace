@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Aufgabe ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,9 +146,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "77536f4fb5d9fa35",
+  "active": "9b19b5276bbb3f64",
   "lastOpenFiles": [
     "Geschichte/Geschichte Index.md",
+    "Geschichte/Reflexion.md",
     "index.md",
     "Geschichte/.md",
     "Mathe/Mathe Index.md",
@@ -157,7 +157,6 @@
     "Mathe/Exponentialfunktionen.md",
     "Physik/Physik Index.md",
     "Mathe/Funktionen.md",
-    "Mathe/Exponentialfunktionen.png",
-    "[index].md"
+    "Mathe/Exponentialfunktionen.png"
   ]
 }

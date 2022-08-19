@@ -7,8 +7,13 @@
         "id": "d11127b61b09aace",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Philo/Gründe für und gegen Krieg.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Philo/Gründe für und gegen Krieg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Philo/Gründe für und gegen Krieg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Philo/Gründe für und gegen Krieg.md"
+              }
             }
           },
           {
@@ -130,17 +139,16 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "d11127b61b09aace",
+  "active": "5445b6c8004f0d5e",
   "lastOpenFiles": [
-    "Mathe/Mathe Index.md",
     "Philo/Philo Index.md",
+    "Mathe/Mathe Index.md",
     "index.md",
     "Mathe/Merkheft/Exponentialfunktionen.md",
     "Geschichte/der Weg zur Macht.md",

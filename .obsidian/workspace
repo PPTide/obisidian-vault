@@ -139,23 +139,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5445b6c8004f0d5e",
+  "active": "d11127b61b09aace",
   "lastOpenFiles": [
-    "Philo/Philo Index.md",
-    "Mathe/Mathe Index.md",
     "index.md",
+    "Philo/Gründe für und gegen Krieg.md",
+    "Mathe/Mathe Index.md",
+    "Philo/Philo Index.md",
     "Mathe/Merkheft/Exponentialfunktionen.md",
     "Geschichte/der Weg zur Macht.md",
     "Geschichte/Reflexion.md",
     "Geschichte/Geschichte Index.md",
     "Mathe/Funktionen.md",
-    "Mathe/Exponentialfunktionen.md",
-    "Geschichte/.md"
+    "Mathe/Exponentialfunktionen.md"
   ]
 }

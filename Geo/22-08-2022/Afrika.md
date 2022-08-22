@@ -21,3 +21,6 @@ Ra/-ubtiere
 Inseln
 Kolonien
 Apartheid
+
+## Wünsche
+- Apartheid

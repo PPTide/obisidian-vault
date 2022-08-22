@@ -1,5 +1,6 @@
 {
   "cssTheme": "Everforest",
   "translucency": true,
-  "monospaceFontFamily": "FiraCode Nerd Font"
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "textFontFamily": "FiraCode Nerd Font"
 }

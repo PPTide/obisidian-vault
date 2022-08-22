@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Español/Español Index.md",
+            "file": "Geo/22-08-2022/test.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Español/Español Index.md",
+                "file": "Geo/22-08-2022/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Español/Español Index.md",
+                "file": "Geo/22-08-2022/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Español/Español Index.md"
+                "file": "Geo/22-08-2022/test.md"
               }
             }
           },
@@ -148,6 +148,8 @@
   },
   "active": "d11127b61b09aace",
   "lastOpenFiles": [
+    "Geo/Geo Index.md",
+    "Español/Español Index.md",
     "Philo/Gründe für und gegen Krieg.md",
     "index.md",
     "Mathe/Mathe Index.md",
@@ -155,8 +157,6 @@
     "Mathe/Merkheft/Exponentialfunktionen.md",
     "Geschichte/der Weg zur Macht.md",
     "Geschichte/Reflexion.md",
-    "Geschichte/Geschichte Index.md",
-    "Mathe/Funktionen.md",
-    "Mathe/Exponentialfunktionen.md"
+    "Geschichte/Geschichte Index.md"
   ]
 }

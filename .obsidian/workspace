@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philo/Gründe für und gegen Krieg.md",
+            "file": "Español/Español Index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philo/Gründe für und gegen Krieg.md",
+                "file": "Español/Español Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philo/Gründe für und gegen Krieg.md",
+                "file": "Español/Español Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philo/Gründe für und gegen Krieg.md"
+                "file": "Español/Español Index.md"
               }
             }
           },
@@ -148,8 +148,8 @@
   },
   "active": "d11127b61b09aace",
   "lastOpenFiles": [
-    "index.md",
     "Philo/Gründe für und gegen Krieg.md",
+    "index.md",
     "Mathe/Mathe Index.md",
     "Philo/Philo Index.md",
     "Mathe/Merkheft/Exponentialfunktionen.md",

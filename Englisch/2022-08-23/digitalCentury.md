@@ -18,5 +18,30 @@
 *b*
 1. *a)* I fear the consequences of my actions.
    *b)* To enjoy ghost trains you have to enjoy fear.
+2. *a)* If you don't see the appeal of sex you might be ace.
+   *b)* School doesn't appeal to me.
+3. *a)* The increase of prices is called inflation. 
+   *b)* Don't increase your risk of injury to live a long live.
+4. *a)* Outer influences can form your character.
+   *b)* The form of donuts is also called torus. 
 
 ## Task 3
+*a*
+- upload content
+- legal consequences
+- surf the web
+- personal information
+- portable device
+- global audience
+*b*
+- On most sites you need a account to upload content.
+- If you kill someone you have to face the legal consequences
+- To surf the web you need a device with internet access
+- The internet has a global audience
+
+## Task 4
+1. ... we can always access access information from the whole web. 
+2. More and more humans see the use of mobile internet access. 
+3. Since Smartphones were released the number of available apps has steadily increased. 
+4. Text based communication increased the worth of the written word.
+5. Social networks enable us to stay in contact with old friends and connect to new people.  

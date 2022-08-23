@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deutsch/Deutsch.md",
+            "file": "Deutsch/23-08-2022/Situation.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Deutsch.md",
+                "file": "Deutsch/23-08-2022/Situation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Deutsch.md",
+                "file": "Deutsch/23-08-2022/Situation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Deutsch.md"
+                "file": "Deutsch/23-08-2022/Situation.md"
               }
             }
           },
@@ -148,11 +148,11 @@
   },
   "active": "37731408bba5f77e",
   "lastOpenFiles": [
+    "Deutsch/Deutsch.md",
     "index.md",
     "Physik/Physik.md",
     "Geschichte/Geschichte.md",
     "Geo/Geo.md",
-    "Deutsch/Deutsch.md",
     "Español/Español.md",
     "Mathe/Mathe.md",
     "Philo/Philo.md",

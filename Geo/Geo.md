@@ -1,6 +1,1 @@
-# Geo Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
+- [[Afrika]]

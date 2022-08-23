@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geo/Geo.md",
+            "file": "Deutsch/Deutsch.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geo/Geo.md",
+                "file": "Deutsch/Deutsch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geo/Geo.md",
+                "file": "Deutsch/Deutsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geo/Geo.md"
+                "file": "Deutsch/Deutsch.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "37731408bba5f77e",
   "lastOpenFiles": [
-    "Geo/Geo.md",
-    "Geo/22-08-2022/Afrika.md",
-    "Geo/Geo Index.md",
-    "Geo/Untitled.md",
-    "Español/Español Index.md",
-    "Philo/Gründe für und gegen Krieg.md",
     "index.md",
-    "Mathe/Mathe Index.md",
-    "Philo/Philo Index.md",
-    "Mathe/Merkheft/Exponentialfunktionen.md"
+    "Physik/Physik.md",
+    "Geschichte/Geschichte.md",
+    "Geo/Geo.md",
+    "Deutsch/Deutsch.md",
+    "Español/Español.md",
+    "Mathe/Mathe.md",
+    "Philo/Philo.md",
+    "Geo/22-08-2022/Afrika.md",
+    "Geo/Geo Index.md"
   ]
 }

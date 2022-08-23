@@ -1,0 +1,5 @@
+| topic                    | its uses                                                                                        | its effects                                                |
+| ------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| the internet             | - information </br> - shopping </br> - banking </br> - share photos/news </br> - apply for jobs | - less popularity of "old media" </br> - depersonalisation |
+| portable internet device | - increase of text-based communication </br> - share pictures </br>                                                                                                |                                                            |
+| social networking site   |                                                                                                 |                                                            |

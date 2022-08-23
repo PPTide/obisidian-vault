@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "3cbaaf1db8127475",
+        "id": "016f66d0f4d2888c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deutsch/2022-08-23/Situation.md",
+            "file": "Englisch/2022-08-23/digitalCentury.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        },
+        "group": "a0b835b52e026fa8"
+      },
+      {
+        "id": "9beaaf802fd491e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Englisch/2022-08-23/digitalCentury.md",
             "mode": "source",
             "backlinks": false,
-            "source": false
+            "source": true
           }
-        }
+        },
+        "group": "a0b835b52e026fa8"
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/2022-08-23/Situation.md",
+                "file": "Englisch/2022-08-23/digitalCentury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/2022-08-23/Situation.md",
+                "file": "Englisch/2022-08-23/digitalCentury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/2022-08-23/Situation.md"
+                "file": "Englisch/2022-08-23/digitalCentury.md"
               }
             }
           },
@@ -146,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cbaaf1db8127475",
+  "active": "9beaaf802fd491e3",
   "lastOpenFiles": [
+    "Englisch/Englisch.md",
+    "Englisch/2022-08-23/digitalCentury.md",
+    "index.md",
+    "test.md",
+    "Untitled Kanban.md",
+    "Deutsch/2022-08-23/Situation.md",
     "Deutsch/Deutsch.md",
     "Mathe/Exponentialfunktionen.md",
     "Mathe/Mathe.md",
-    "Deutsch/2022-08-23/Situation.md",
-    "Physik/Physik.md",
-    "Geo/2022-08-22/Afrika.md",
-    "Geo/Geo.md",
-    "Untitled Kanban.md",
-    "test.md",
-    "index.md"
+    "Physik/Physik.md"
   ]
 }

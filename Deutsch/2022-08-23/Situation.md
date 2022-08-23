@@ -16,4 +16,4 @@ Drei weiblich präsentierende Personen sitzen an einem Tisch. Eine ließt/schrei
 	- [ ] Eure Geschichte beginnt und endet offen
 
 ## Geschichte
-In ihrem Zimmer guckt Betina auf ein leeres Blat
+In ihrem Zimmer guckt Betina auf ein leeres Blatt weißes Papier. 

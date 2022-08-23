@@ -40,8 +40,11 @@
 - The internet has a global audience
 
 ## Task 4
-1. ... we can always access access information from the whole web. 
+1. Thanks to the smartphone we can always access access information from the whole web. 
 2. More and more humans see the use of mobile internet access. 
 3. Since Smartphones were released the number of available apps has steadily increased. 
-4. Text based communication increased the worth of the written word.
+4. Text based applications increased the worth of the written word.
 5. Social networks enable us to stay in contact with old friends and connect to new people.  
+
+## Task 5
+The internet has a great impact on my life. I use it for entertainment and to stay in contact with my friend even if they are over 7,000km away. I can watch youtube videos to learn stuff or get a distraction from the real world. Or I can chat with people I don't know in real life on platforms like discord. It also helps by giving me and my friends the ability to chat about homework, send each other stupid memes or talk about the world news. The internet is also a useful helper when learning new skill. It can help with learning digital skills like programming or physical skills like forging. I also use the internet to learn about new tools that help with productivity, e.g. the note taking app, obsidian that I use. Another use of the internet for me are also online multiplayer games. HI :)

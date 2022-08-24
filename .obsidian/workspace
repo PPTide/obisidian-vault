@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cf9967f8d87c96ab",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Español/2022-08-24/introducción Chile.pdf"
-          }
-        }
-      },
-      {
-        "id": "bfd8a5fdbaa9381e",
+        "id": "d0b6599d7dff67c5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Español/2022-08-24/Chile.md",
+            "file": "Chemie/2022-08-18/Oberflächenspannung.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -88,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Español/2022-08-24/Chile.md",
+                "file": "Chemie/2022-08-18/Oberflächenspannung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Español/2022-08-24/Chile.md",
+                "file": "Chemie/2022-08-18/Oberflächenspannung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Español/2022-08-24/Chile.md"
+                "file": "Chemie/2022-08-18/Oberflächenspannung.md"
               }
             }
           },
@@ -155,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bfd8a5fdbaa9381e",
+  "active": "d0b6599d7dff67c5",
   "lastOpenFiles": [
+    "Chemie/Chemie.md",
+    "Chemie/2022-08-18/Oberflächenspannung.md",
+    "Untitled.md",
     "Español/2022-08-24/introducción Chile.pdf",
-    "Español/Español.md",
     "Español/2022-08-24/Chile.md",
+    "Español/Español.md",
     "Physik/Physik.md",
     "Philo/Philo.md",
     "Mathe/Mathe.md",
-    "Geschichte/Geschichte.md",
-    "Geo/Geo.md",
-    "Excalidraw/Excalidraw.md",
-    "Englisch/Englisch.md"
+    "Geschichte/Geschichte.md"
   ]
 }

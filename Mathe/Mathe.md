@@ -1,17 +1,8 @@
-%%- [[Funktionen]] 2022-08-19
+- [[Funktionen]] 2022-08-19
 - [[Mathe/Exponentialfunktionen]] 2022-08-19
-- [[Mathe/2022-08-24/Exponentialfunktionen]]%%
-```dataview
-table date as Date
-from #math
-WHERE merkheft != 1
-```
+- [[Mathe/2022-08-24/Exponentialfunktionen]]
+- [[Mathe/2022-08-24/Aufgaben]]
+
 
 ### Merkheft
-%%- [[Mathe/Merkheft/Exponentialfunktionen]] 2022-08-19 %%
-
-```dataview
-table date as Date
-from #math
-WHERE merkheft = 1
-```
+- [[Mathe/Merkheft/Exponentialfunktionen]] 2022-08-19 

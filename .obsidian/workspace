@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0774ff678fe12440",
+        "id": "ba0c90ffb1fc2b34",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -138,25 +138,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "0774ff678fe12440",
+  "active": "ba0c90ffb1fc2b34",
   "lastOpenFiles": [
-    "Mathe/Merkheft/Exponentialfunktionen.md",
-    "Untitled.md",
-    "Mathe/2022-08-24/Exponentialfunktionen.md",
-    "Mathe/Exponentialfunktionen.md",
     "Mathe/Mathe.md",
-    "Englisch/2022-08-23/digitalCentury.md",
-    "Englisch/Englisch.md",
+    "Mathe/2022-08-24/Aufgaben.md",
+    "Bio/2022-08-24/Die Zelle.md",
+    "Bio/Bio.md",
     "index.md",
-    "test.md",
-    "Untitled Kanban.md"
+    "Mathe/2022-08-24/Exponentialfunktionen.md",
+    "Untitled.md",
+    "Mathe/Merkheft/Exponentialfunktionen.md",
+    "Mathe/Exponentialfunktionen.md",
+    "Englisch/2022-08-23/digitalCentury.md"
   ]
 }

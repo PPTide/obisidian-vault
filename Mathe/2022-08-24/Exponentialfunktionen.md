@@ -1,3 +1,4 @@
+Erweiterung von [[]]
 # Exponentialfunktionen
 Allgemeine Form: $f(x) = a*b^x$
 

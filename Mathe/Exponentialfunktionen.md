@@ -43,3 +43,5 @@ $$
 	f(30)&=3.221.225.472
 \end{align*}
 $$
+
+[[Mathe/Merkheft/Exponentialfunktionen|Merkheft]]

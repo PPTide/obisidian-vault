@@ -1,4 +1,4 @@
-Erweiterung von [[]]
+Erweiterung von [[Mathe/Exponentialfunktionen]]
 # Exponentialfunktionen
 Allgemeine Form: $f(x) = a*b^x$
 

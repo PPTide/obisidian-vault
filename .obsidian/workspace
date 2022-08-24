@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "13ee49c152183825",
+        "id": "62730f1342acc291",
         "type": "leaf",
         "state": {
           "type": "pdf",
@@ -142,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13ee49c152183825",
+  "active": "62730f1342acc291",
   "lastOpenFiles": [
     "Español/Español.md",
-    "index.md",
-    "Español/2022-08-24/introducción Chile.pdf",
-    "Bio/2022-08-24/Scanned Document.pdf",
     "Bio/2022-08-24/Die Zelle.md",
-    "Bio/Bio.md",
     "Excalidraw/Drawing 2022-08-24 12.12.09.excalidraw.md",
+    "Bio/Bio.md",
+    "Excalidraw/Drawing 2022-08-24 14.16.45.excalidraw.md",
+    "Español/2022-08-24/introducción Chile.pdf",
+    "index.md",
+    "Bio/2022-08-24/Scanned Document.pdf",
     "Excalidraw/Drawing 2022-08-24 12.11.13.excalidraw.md",
-    "Mathe/Funktionen.md",
-    "Mathe/Exponentialfunktionen.md"
+    "Mathe/Funktionen.md"
   ]
 }

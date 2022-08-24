@@ -27,3 +27,7 @@ Ein Motorrad kostet 12000€ und verliert jedes Jahr 10%
 
 > $f(x) = 12.000 * 0,9^x$
 
+> [!question] Nach 2 Jahren:
+> $f(2)=12.000*0,9^x=9720$
+> 9720,-€
+

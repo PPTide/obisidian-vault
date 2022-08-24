@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Bio/2022-08-24/Scanned Document.pdf"
+            "file": "Español/2022-08-24/introducción Chile.pdf"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bio/2022-08-24/Scanned Document.pdf",
+                "file": "Español/2022-08-24/introducción Chile.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bio/2022-08-24/Scanned Document.pdf",
+                "file": "Español/2022-08-24/introducción Chile.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bio/2022-08-24/Scanned Document.pdf"
+                "file": "Español/2022-08-24/introducción Chile.pdf"
               }
             }
           },
@@ -144,15 +144,15 @@
   },
   "active": "13ee49c152183825",
   "lastOpenFiles": [
-    "Bio/2022-08-24/Die Zelle.md",
+    "Español/Español.md",
+    "index.md",
+    "Español/2022-08-24/introducción Chile.pdf",
     "Bio/2022-08-24/Scanned Document.pdf",
+    "Bio/2022-08-24/Die Zelle.md",
     "Bio/Bio.md",
     "Excalidraw/Drawing 2022-08-24 12.12.09.excalidraw.md",
     "Excalidraw/Drawing 2022-08-24 12.11.13.excalidraw.md",
     "Mathe/Funktionen.md",
-    "Mathe/Exponentialfunktionen.md",
-    "Mathe/Mathe.md",
-    "Mathe/2022-08-24/Exponentialfunktionen.md",
-    "Mathe/2022-08-24/Aufgaben.md"
+    "Mathe/Exponentialfunktionen.md"
   ]
 }

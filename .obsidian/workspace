@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Englisch/2022-08-23/digitalCentury.md",
+            "file": "Mathe/Mathe.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/2022-08-23/digitalCentury.md",
+                "file": "Mathe/Mathe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/2022-08-23/digitalCentury.md",
+                "file": "Mathe/Mathe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/2022-08-23/digitalCentury.md"
+                "file": "Mathe/Mathe.md"
               }
             }
           },
@@ -148,8 +148,8 @@
   },
   "active": "016f66d0f4d2888c",
   "lastOpenFiles": [
-    "Englisch/Englisch.md",
     "Englisch/2022-08-23/digitalCentury.md",
+    "Englisch/Englisch.md",
     "index.md",
     "test.md",
     "Untitled Kanban.md",

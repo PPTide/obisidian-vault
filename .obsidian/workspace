@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "79de1cb64194b01d",
+        "id": "632e1f31b6287f07",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemie/2022-08-25/Löslichkeit.md",
+            "file": "Physik/2022-08-25/Geschwindigkeit.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/2022-08-25/Löslichkeit.md",
+                "file": "Physik/2022-08-25/Geschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/2022-08-25/Löslichkeit.md",
+                "file": "Physik/2022-08-25/Geschwindigkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/2022-08-25/Löslichkeit.md"
+                "file": "Physik/2022-08-25/Geschwindigkeit.md"
               }
             }
           },
@@ -143,19 +143,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5445b6c8004f0d5e",
+  "active": "632e1f31b6287f07",
   "lastOpenFiles": [
-    "Chemie/Chemie.md",
+    "Physik/Physik.md",
+    "Physik/2022-08-25/Geschwindigkeit.md",
     "Chemie/2022-08-25/Löslichkeit.md",
+    "Chemie/Chemie.md",
     "index.md",
     "Chemie/2022-08-25/Oberflächenspannung Erklärung.md",
     "Deutsch/Deutsch.md",
     "Chemie/2022-08-18/Oberflächenspannung.md",
     "Deutsch/2022-08-25/Aussage.md",
-    "Deutsch/2022-08-23/Situation.md",
-    "Bio/Bio.md",
-    "Physik/Physik.md"
+    "Deutsch/2022-08-23/Situation.md"
   ]
 }

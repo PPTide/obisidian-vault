@@ -5,6 +5,7 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasSpaghettiMonsterFlying",
       "IbBeaker"
     ],
     "recentlyUsedIconsSize": 5,
@@ -16,5 +17,6 @@
       "left": 2
     }
   },
-  "Chemie": "IbBeaker"
+  "Chemie": "IbBeaker",
+  "Physik": "FasSpaghettiMonsterFlying"
 }

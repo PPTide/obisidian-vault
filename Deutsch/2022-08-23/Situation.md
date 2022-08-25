@@ -16,4 +16,7 @@ Drei weiblich präsentierende Personen sitzen an einem Tisch. Eine ließt/schrei
 	- [ ] Eure Geschichte beginnt und endet offen
 
 ## Geschichte
-In ihrem Zimmer guckt Betina auf ein leeres Blatt weißes Papier. 
+In ihrem Zimmer guckt Betina auf ein leeres Blatt weißes Papier. "Sag mal... weißt du nicht so langsam ob das Blatt gute Qualität hat?", fragt Anika. Betina guckt von ihrem Blatt auf und sagt: "Nein, es muss makellos sein! Ich kann nichts, außer das perfekte Papier für meine Notizen verwende." Hedwig nahm sich einen Keks: "Für wen machst du eigentlich deine Notizen?" Sie nahm sich Betinas Notizen und began vorzulesen: "
+###### Versuchstag 4:
+Heute waren Hedwig und Betina sehr ruhig, als ich ihnen die Spritze gab. Sie stammelten danach nur etwas von 5g, Bill Gates und Tracker. Keine A
+"

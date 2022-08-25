@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemie/Chemie.md",
+            "file": "Deutsch/2022-08-23/Situation.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Chemie.md",
+                "file": "Deutsch/2022-08-23/Situation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Chemie.md",
+                "file": "Deutsch/2022-08-23/Situation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Chemie.md"
+                "file": "Deutsch/2022-08-23/Situation.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "d0b6599d7dff67c5",
   "lastOpenFiles": [
+    "Deutsch/Deutsch.md",
     "Bio/Bio.md",
+    "Physik/Physik.md",
+    "Deutsch/2022-08-23/Situation.md",
     "Chemie/Chemie.md",
     "Chemie/2022-08-18/Oberflächenspannung.md",
     "Untitled.md",
     "Español/2022-08-24/introducción Chile.pdf",
     "Español/2022-08-24/Chile.md",
-    "Español/Español.md",
-    "Physik/Physik.md",
-    "Philo/Philo.md",
-    "Mathe/Mathe.md"
+    "Español/Español.md"
   ]
 }

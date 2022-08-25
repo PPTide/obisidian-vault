@@ -16,7 +16,11 @@ Drei weiblich präsentierende Personen sitzen an einem Tisch. Eine ließt/schrei
 	- [ ] Eure Geschichte beginnt und endet offen
 
 ## Geschichte
-In ihrem Zimmer guckt Betina auf ein leeres Blatt weißes Papier. "Sag mal... weißt du nicht so langsam ob das Blatt gute Qualität hat?", fragt Anika. Betina guckt von ihrem Blatt auf und sagt: "Nein, es muss makellos sein! Ich kann nichts, außer das perfekte Papier für meine Notizen verwende." Hedwig nahm sich einen Keks: "Für wen machst du eigentlich deine Notizen?" Sie nahm sich Betinas Notizen und began vorzulesen: "
-###### Versuchstag 4:
-Heute waren Hedwig und Betina sehr ruhig, als ich ihnen die Spritze gab. Sie stammelten danach nur etwas von 5g, Bill Gates und Tracker. Keine A
-"
+In ihrem Zimmer guckt Betina auf ein leeres Blatt weißes Papier. "Sag mal... weißt du nicht so langsam ob das Blatt gute Qualität hat?", fragt Anika. Betina guckt von ihrem Blatt auf und sagt: "Nein, es muss makellos sein! Ich kann nichts, außer das perfekte Papier für meine Notizen verwende." Hedwig nahm sich einen Keks: "Für wen machst du eigentlich deine Notizen?" Sie nahm sich Betinas Notizen und began vorzulesen: 
+> [!Note] Versuchstag 4:
+> Heute waren Hedwig und Anika sehr ruhig, als ich ihnen die Spritze gab. Sie stammelten danach nur etwas von 5g, Bill Gates und Tracker. Keine Ahnung, was das für Sachen sind, aber sie wirken mir immer mehr zu vertrauen.
+> Der Zeitraum für den die Effekte der Injektion bleiben hat sich auch auf um beinahe eine Stunde auf fünfeinhalb Stunden verlängert. Meine Experimente sind also erfolgreich. 
+> Hedwig und Anika wirken auch als ob sie immer schneller werden, das sind auch gute Nachrichten. So kann mein Sklaven getriebenes Hamsterrad-Imperium funktionieren!
+> ==Signiert: Betina==
+
+"Was... Was bedeutet das?", fragte Anika, die gespannt zugehört hat: "Spritz du uns irgendwelche Sachen? Ich kann mich garnicht daran erinnern." Betina erklärt den beiden, dies sei ein Nebeneffekt der Impfung und sie müssen sich keine Sorgen machen, sie würde sich gut um die beiden Kümmern. "Aber du nimmst uns unseren Freien Willen??? Wie sollen wir dir da vertrauen?" 

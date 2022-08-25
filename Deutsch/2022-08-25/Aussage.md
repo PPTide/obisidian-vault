@@ -1,0 +1,1 @@
+"Deine Geschichte hat ein offenes Ende, denn man weiß als Leser nicht, was als nächstes passiert. Und außerdem lässt du einige Fragen offen."

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "825e572949eba514",
+        "id": "79de1cb64194b01d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemie/Chemie.md",
+            "file": "Chemie/2022-08-25/Löslichkeit.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Chemie.md",
+                "file": "Chemie/2022-08-25/Löslichkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Chemie.md",
+                "file": "Chemie/2022-08-25/Löslichkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Chemie.md"
+                "file": "Chemie/2022-08-25/Löslichkeit.md"
               }
             }
           },
@@ -138,24 +138,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "825e572949eba514",
+  "active": "5445b6c8004f0d5e",
   "lastOpenFiles": [
-    "index.md",
     "Chemie/Chemie.md",
+    "Chemie/2022-08-25/Löslichkeit.md",
+    "index.md",
     "Chemie/2022-08-25/Oberflächenspannung Erklärung.md",
     "Deutsch/Deutsch.md",
     "Chemie/2022-08-18/Oberflächenspannung.md",
     "Deutsch/2022-08-25/Aussage.md",
     "Deutsch/2022-08-23/Situation.md",
     "Bio/Bio.md",
-    "Physik/Physik.md",
-    "Untitled.md"
+    "Physik/Physik.md"
   ]
 }

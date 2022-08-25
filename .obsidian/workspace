@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "632e1f31b6287f07",
+        "id": "04382e4bffff90ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -146,17 +146,46 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "632e1f31b6287f07",
+  "floating": {
+    "id": "a877cb4ba9a6a116",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e754445d3b40a4b5",
+        "type": "window",
+        "children": [
+          {
+            "id": "632e1f31b6287f07",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-08-25 12.32.09.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": -895,
+        "y": 514,
+        "width": 1102,
+        "height": 717,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "04382e4bffff90ac",
   "lastOpenFiles": [
-    "Physik/Physik.md",
+    "Excalidraw/Drawing 2022-08-25 12.32.09.excalidraw.md",
     "Physik/2022-08-25/Geschwindigkeit.md",
+    "Untitled.md",
+    "Physik/Physik.md",
     "Chemie/2022-08-25/Löslichkeit.md",
     "Chemie/Chemie.md",
     "index.md",
     "Chemie/2022-08-25/Oberflächenspannung Erklärung.md",
     "Deutsch/Deutsch.md",
-    "Chemie/2022-08-18/Oberflächenspannung.md",
-    "Deutsch/2022-08-25/Aussage.md",
-    "Deutsch/2022-08-23/Situation.md"
+    "Chemie/2022-08-18/Oberflächenspannung.md"
   ]
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bac2e6ccdfa7a614",
+        "id": "2c72889cb588cc05",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philo/2022-08-26/Haltungen zum Krieg.md",
+            "file": "index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philo/2022-08-26/Haltungen zum Krieg.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philo/2022-08-26/Haltungen zum Krieg.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philo/2022-08-26/Haltungen zum Krieg.md"
+                "file": "index.md"
               }
             }
           },
@@ -146,7 +146,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bac2e6ccdfa7a614",
+  "active": "2c72889cb588cc05",
   "lastOpenFiles": [
     "Philo/Philo.md",
     "Philo/2022-08-26/Haltungen zum Krieg.md",

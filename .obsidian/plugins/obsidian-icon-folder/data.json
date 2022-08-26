@@ -5,6 +5,7 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbEqual",
       "FasSpaghettiMonsterFlying",
       "IbBeaker"
     ],
@@ -18,5 +19,6 @@
     }
   },
   "Chemie": "IbBeaker",
-  "Physik": "FasSpaghettiMonsterFlying"
+  "Physik": "FasSpaghettiMonsterFlying",
+  "Mathe": "IbEqual"
 }

@@ -14,6 +14,8 @@ Nach einer Woche
 	$$
 	\begin{align*}
 		100 &= 180 * 0,8^x &|& /180 \\
-		
+		\frac 59 &= 0,8^x  &|& \log_{0,8} \\
+		2,63 &\approx 1^x = x
 	\end{align*}
 	$$
+	

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe/2022-08-26/Aufgabe.md",
+            "file": "Geschichte/Geschichte.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/2022-08-26/Aufgabe.md",
+                "file": "Geschichte/Geschichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/2022-08-26/Aufgabe.md",
+                "file": "Geschichte/Geschichte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/2022-08-26/Aufgabe.md"
+                "file": "Geschichte/Geschichte.md"
               }
             }
           },
@@ -146,39 +146,10 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "a877cb4ba9a6a116",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e754445d3b40a4b5",
-        "type": "window",
-        "children": [
-          {
-            "id": "632e1f31b6287f07",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2022-08-25 12.32.09.excalidraw.md"
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": -895,
-        "y": 514,
-        "width": 1102,
-        "height": 717,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "a0a4bc83f781dbda",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-08-25 12.32.09.excalidraw.md",
     "Mathe/2022-08-26/Aufgabe.md",
+    "Excalidraw/Drawing 2022-08-25 12.32.09.excalidraw.md",
     "Mathe/Mathe.md",
     "Mathe/2022-08-24/Aufgaben.md",
     "Mathe/2022-08-26/Logarithmus.md",

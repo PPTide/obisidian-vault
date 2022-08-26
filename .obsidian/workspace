@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe/2022-08-26/Logarithmus.md",
+            "file": "Mathe/2022-08-24/Aufgaben.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/2022-08-26/Logarithmus.md",
+                "file": "Mathe/2022-08-24/Aufgaben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/2022-08-26/Logarithmus.md",
+                "file": "Mathe/2022-08-24/Aufgaben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/2022-08-26/Logarithmus.md"
+                "file": "Mathe/2022-08-24/Aufgaben.md"
               }
             }
           },
@@ -177,15 +177,15 @@
   },
   "active": "63cf5106c3164591",
   "lastOpenFiles": [
-    "Mathe/Mathe.md",
     "Mathe/2022-08-26/Logarithmus.md",
+    "Mathe/Merkheft/Logarithmus.md",
+    "Mathe/Mathe.md",
     "Mathe/2022-08-24/Aufgaben.md",
     "Excalidraw/Drawing 2022-08-25 12.32.09.excalidraw.md",
     "Mathe/2022-08-24/Exponentialfunktionen.md",
     "Physik/2022-08-25/Geschwindigkeit.md",
     "Physik/Physik.md",
     "Untitled.md",
-    "Chemie/2022-08-25/Löslichkeit.md",
-    "Chemie/Chemie.md"
+    "Chemie/2022-08-25/Löslichkeit.md"
   ]
 }

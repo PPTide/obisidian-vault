@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "63cf5106c3164591",
+        "id": "a0a4bc83f781dbda",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe/2022-08-24/Aufgaben.md",
+            "file": "Mathe/2022-08-26/Aufgabe.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/2022-08-24/Aufgaben.md",
+                "file": "Mathe/2022-08-26/Aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/2022-08-24/Aufgaben.md",
+                "file": "Mathe/2022-08-26/Aufgabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/2022-08-24/Aufgaben.md"
+                "file": "Mathe/2022-08-26/Aufgabe.md"
               }
             }
           },
@@ -175,17 +175,17 @@
       }
     ]
   },
-  "active": "63cf5106c3164591",
+  "active": "a0a4bc83f781dbda",
   "lastOpenFiles": [
-    "Mathe/2022-08-26/Logarithmus.md",
-    "Mathe/Merkheft/Logarithmus.md",
+    "Excalidraw/Drawing 2022-08-25 12.32.09.excalidraw.md",
+    "Mathe/2022-08-26/Aufgabe.md",
     "Mathe/Mathe.md",
     "Mathe/2022-08-24/Aufgaben.md",
-    "Excalidraw/Drawing 2022-08-25 12.32.09.excalidraw.md",
+    "Mathe/2022-08-26/Logarithmus.md",
+    "Mathe/Merkheft/Logarithmus.md",
     "Mathe/2022-08-24/Exponentialfunktionen.md",
     "Physik/2022-08-25/Geschwindigkeit.md",
     "Physik/Physik.md",
-    "Untitled.md",
-    "Chemie/2022-08-25/Löslichkeit.md"
+    "Untitled.md"
   ]
 }

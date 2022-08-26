@@ -11,11 +11,10 @@ Nach einer Woche
 	$f(7) = 180 * 0,8^7 = 37,75$
 
 *c.* Wann ist die Chlormenge unter 100g?
-	$$
-	\begin{align*}
-		100 &= 180 * 0,8^x &|& /180 \\
-		\frac 59 &= 0,8^x  &|& \log_{0,8} \\
-		2,63 &\approx 1^x = x
-	\end{align*}
-	$$
-	
+$$
+\begin{align*}
+	100 &= 180 * 0,8^x &|& /180 \\
+	\frac 59 &= 0,8^x  &|& \log_{0,8} \\
+	2,63 &\approx 1^x = x
+\end{align*}
+$$

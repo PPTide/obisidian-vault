@@ -1,2 +1,3 @@
 - [[Geschichte/Reflexion]] 2022-08-19
 - [[Geschichte/der Weg zur Macht]] 2022-08-19
+- [[Geschichte/2022-08-26/Machtübernahme oder Machtergreifung]]

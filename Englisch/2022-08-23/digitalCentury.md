@@ -40,10 +40,10 @@
 - The internet has a global audience
 
 ## Task 4
-1. Thanks to the smartphone we can always access access information from the whole web. 
-2. More and more humans see the use of mobile internet access. 
+1. Thanks to the smartphone we can always access information from the whole web. 
+2. More and more people see the use of mobile internet access. 
 3. Since Smartphones were released the number of available apps has steadily increased. 
-4. Text based applications increased the worth of the written word.
+4. Text based applications increased the worth(importance) of the written word.
 5. Social networks enable us to stay in contact with old friends and connect to new people.  
 
 ## Task 5

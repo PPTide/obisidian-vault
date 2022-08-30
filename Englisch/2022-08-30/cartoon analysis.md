@@ -6,3 +6,4 @@ The second panel shows the two with a room in the background and the woman askin
 %%Step 3%%
 The cartoon criticises the excessive use of social media in our Society. It shows it through humour and exaggeration. 
 %%Step 4%%
+Yea... some people are way to addicted to their phone...

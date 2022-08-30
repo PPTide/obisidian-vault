@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Englisch/2022-08-23/digitalCentury.md",
+            "file": "Deutsch/Deutsch.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/2022-08-23/digitalCentury.md",
+                "file": "Deutsch/Deutsch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/2022-08-23/digitalCentury.md",
+                "file": "Deutsch/Deutsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/2022-08-23/digitalCentury.md"
+                "file": "Deutsch/Deutsch.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "a4f20906b4e792a7",
   "lastOpenFiles": [
+    "Deutsch/2022-08-25/Aussage.md",
+    "Deutsch/2022-08-23/Situation.md",
+    "Deutsch/Deutsch.md",
+    "Englisch/2022-08-23/digitalCentury.md",
     "index.md",
     "Español/2022-08-24/Chile.md",
     "Español/Español.md",
     "Philo/Philo.md",
     "Philo/2022-08-26/Haltungen zum Krieg.md",
-    "Philo/Gründe für und gegen Krieg.md",
-    "Geschichte/2022-08-26/Machtübernahme oder Machtergreifung.md",
-    "Geschichte/Geschichte.md",
-    "Mathe/2022-08-26/Aufgabe.md",
-    "Excalidraw/Drawing 2022-08-25 12.32.09.excalidraw.md"
+    "Philo/Gründe für und gegen Krieg.md"
   ]
 }

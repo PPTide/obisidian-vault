@@ -1,2 +1,3 @@
 - [[Situation]]
 - [[Deutsch/2022-08-25/Aussage]]
+- [[Deutsch/2022-08-30/Kurzgeschichte]]

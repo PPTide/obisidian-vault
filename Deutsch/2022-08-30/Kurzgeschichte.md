@@ -1,1 +1,4 @@
 ## Wichtige Textstellen
+| Textstelle                                                                                                                                                                                                                                            | Begründung |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [...] er trat aus der Hütte hinaus, blickte gleichgültig über die Reste des Fleisches, die die Bären zurückgelassen hatten; er holte den Schlitten hinter der Mauer hervor [...]. Langsam glitt er über die Hügel zurück, der jäger des Unglücks [...] |            |

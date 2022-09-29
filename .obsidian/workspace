@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "04df09e53ac877af",
+        "id": "9bb571f65bb5854d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           },
           {
@@ -137,7 +146,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37f66530c058fbc6",
+  "active": "9bb571f65bb5854d",
   "lastOpenFiles": [
     "Englisch/Englisch.md",
     "Untitled.md",

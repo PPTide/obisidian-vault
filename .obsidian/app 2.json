@@ -1,0 +1,14 @@
+{
+  "spellcheck": true,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 69
+  }
+}

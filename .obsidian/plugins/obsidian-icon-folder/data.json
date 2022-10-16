@@ -18,9 +18,5 @@
       "bottom": 2,
       "left": 2
     }
-  },
-  "Chemie": "IbBeaker",
-  "Physik": "FasSpaghettiMonsterFlying",
-  "Mathe": "IbEqual",
-  "Philo": "FasBrain"
+  }
 }

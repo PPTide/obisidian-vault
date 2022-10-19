@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fff18eb32a4a9eb",
+        "id": "2ec5d77edc0c7db2",
         "type": "tabs",
         "children": [
           {
-            "id": "1b43a6ba3ddc27a9",
+            "id": "65058c58996566ae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           },
           {
@@ -156,7 +160,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "37f66530c058fbc6",
+  "active": "65058c58996566ae",
   "lastOpenFiles": [
     "Chemie/Chemie.md",
     "index.md",

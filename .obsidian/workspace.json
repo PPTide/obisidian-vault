@@ -11,8 +11,13 @@
             "id": "65058c58996566ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathe/2022-08-26/Aufgabe.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Mathe/2022-08-26/Aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Mathe/2022-08-26/Aufgabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Mathe/2022-08-26/Aufgabe.md"
               }
             }
           },
@@ -162,6 +167,8 @@
   },
   "active": "65058c58996566ae",
   "lastOpenFiles": [
+    "Mathe/Merkheft/Logarithmus.md",
+    "Mathe/Merkheft/Exponentialfunktionen.md",
     "Chemie/Chemie.md",
     "index.md",
     "Englisch/Englisch.md",
@@ -169,8 +176,6 @@
     "Englisch/2022-08-30/cartoon analysis.md",
     "Deutsch/2022-08-30/Kurzgeschichte.md",
     "Deutsch/Deutsch.md",
-    "Deutsch/2022-08-25/Aussage.md",
-    "Deutsch/2022-08-23/Situation.md",
-    "Englisch/2022-08-23/digitalCentury.md"
+    "Deutsch/2022-08-25/Aussage.md"
   ]
 }

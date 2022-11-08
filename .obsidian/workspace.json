@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ec5d77edc0c7db2",
+        "id": "155de60033c8eb66",
         "type": "tabs",
         "children": [
           {
-            "id": "65058c58996566ae",
+            "id": "8cf1eefbbb303215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/2022-08-26/Aufgabe.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/2022-08-26/Aufgabe.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/2022-08-26/Aufgabe.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/2022-08-26/Aufgabe.md"
+                "file": "index.md"
               }
             }
           },
@@ -162,10 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "65058c58996566ae",
+  "active": "8cf1eefbbb303215",
   "lastOpenFiles": [
     "Mathe/Merkheft/Logarithmus.md",
     "Mathe/Merkheft/Exponentialfunktionen.md",
